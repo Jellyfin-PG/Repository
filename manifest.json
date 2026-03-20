@@ -6,7 +6,7 @@
         "overview": "Browse and apply community CSS themes to your Jellyfin server.",
         "owner": "Jellyfin-PG",
         "category": "General",
-        "imageUrl": "https://raw.githubusercontent.com/Jellyfin-PG/Skin-Manager/main/icon.png",
+        "imageUrl": "https://raw.githubusercontent.com/Jellyfin-PG/Skin-Manager/refs/heads/main/assets/skinmanager.svg",
         "versions": [
             {
                 "version": "1.0.0.1",
