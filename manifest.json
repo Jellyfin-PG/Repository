@@ -32,6 +32,17 @@
         "imageUrl": "https://raw.githubusercontent.com/Jellyfin-PG/Skin-Manager/refs/heads/main/assets/skinmanager.svg",
         "versions": [
             {
+                "version": "1.2.1.0",
+                "changelog": "Fixes for versioning and configuration.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/Skin-Manager/releases/download/v1.2.1/SkinManager_1.2.1.zip",
+                "checksum": "6620ba0b135be435c9f19df819b704b4",
+                "timestamp": "2026-03-21T00:00:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "1.2.0.0",
                 "changelog": "Theme Variables, now you can customize themes using the gear icon with the selected theme.",
                 "targetAbi": "10.11.0.0",
