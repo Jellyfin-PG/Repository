@@ -32,6 +32,17 @@
         "imageUrl": "https://raw.githubusercontent.com/Jellyfin-PG/Skin-Manager/refs/heads/main/assets/skinmanager.svg",
         "versions": [
             {
+                "version": "1.5.1.0",
+                "changelog": "Version-Bound Cache Matrix",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/Skin-Manager/releases/download/v1.5.1/SkinManager_1.5.1.zip",
+                "checksum": "c1d909562fbeb6271d24fb3496f8942d",
+                "timestamp": "2026-03-27T00:00:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "1.5.0.0",
                 "changelog": "Offline Disk Proxy & Dynamic Networking",
                 "targetAbi": "10.11.0.0",
@@ -44,7 +55,7 @@
             },
             {
                 "version": "1.4.2.0",
-                "changelog": "Preconnect for imgur images and google fonts",
+                "changelog": "Resource Preconnecting",
                 "targetAbi": "10.11.0.0",
                 "sourceUrl": "https://github.com/Jellyfin-PG/Skin-Manager/releases/download/v1.4.2/SkinManager_1.4.2.zip",
                 "checksum": "4c9c23990aade873030994ddcb9d8285",
@@ -55,7 +66,7 @@
             },
             {
                 "version": "1.4.1.0",
-                "changelog": "Introduces user skins and optimizations for assets and injecting",
+                "changelog": "Preload Optimizations and Per User Themes",
                 "targetAbi": "10.11.0.0",
                 "sourceUrl": "https://github.com/Jellyfin-PG/Skin-Manager/releases/download/v1.4.1/SkinManager_1.4.1.zip",
                 "checksum": "93afab4be9adfac20d97f4898803acd0",
