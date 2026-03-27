@@ -32,6 +32,17 @@
         "imageUrl": "https://raw.githubusercontent.com/Jellyfin-PG/Skin-Manager/refs/heads/main/assets/skinmanager.svg",
         "versions": [
             {
+                "version": "1.5.0.0",
+                "changelog": "Offline Disk Proxy & Dynamic Networking",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/Skin-Manager/releases/download/v1.5.0/SkinManager_1.5.0.zip",
+                "checksum": "6382d2caa053cdca46a1c43b80593b3b",
+                "timestamp": "2026-03-26T00:00:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "1.4.2.0",
                 "changelog": "Preconnect for imgur images and google fonts",
                 "targetAbi": "10.11.0.0",
