@@ -32,6 +32,17 @@
         "imageUrl": "https://raw.githubusercontent.com/Jellyfin-PG/Skin-Manager/refs/heads/main/assets/skinmanager.svg",
         "versions": [
             {
+                "version": "1.5.3.0",
+                "changelog": "UI Stability & Fallback Reliability",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/Skin-Manager/releases/download/v1.5.3/SkinManager_1.5.3.zip",
+                "checksum": "6b5bf304ee048e0817179b109ea584f0",
+                "timestamp": "2026-03-28T00:00:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "1.5.2.0",
                 "changelog": "Preload Cross-Origin Normalization",
                 "targetAbi": "10.11.0.0",
