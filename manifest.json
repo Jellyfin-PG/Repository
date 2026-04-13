@@ -10,6 +10,17 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyFrame@main/assets/jellyframe.png",
         "versions": [
             {
+                "version": "1.1.1.0",
+                "changelog": "Fixes for jint threads on routes.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/JellyFrame/releases/download/v1.1.1/JellyFrame_1.1.1.zip",
+                "checksum": "792374f7cae88b4b9eeec3926ccce45e",
+                "timestamp": "2026-04-13T00:00:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "1.1.0.0",
                 "changelog": "Major overhaul, new features, qol improvements.",
                 "targetAbi": "10.11.0.0",
