@@ -10,6 +10,17 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyFrame@main/assets/jellyframe.png",
         "versions": [
             {
+                "version": "1.2.0.0",
+                "changelog": "Expanded access for mods with new scopes/permissions, as well as optional screenshots for mods and themes.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/JellyFrame/releases/download/v1.2.0/JellyFrame_1.2.0.zip",
+                "checksum": "7bab1357a1195142fa8ca00db2c6e608",
+                "timestamp": "2026-04-15T00:00:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "1.1.2.0",
                 "changelog": "Fixes for version mismatch.",
                 "targetAbi": "10.11.0.0",
