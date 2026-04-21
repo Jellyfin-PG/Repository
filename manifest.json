@@ -1,6 +1,28 @@
 
 [
     {
+        "guid": "9bab105e-9af0-4e25-a87d-876713b60962",
+        "name": "JellyEmu",
+        "description": "Share your emulation library in jellyfin with your users.",
+        "overview": "Browse and play retro games with your friends.",
+        "owner": "Jellyfin-PG",
+        "category": "General",
+        "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyEmu@main/assets/jellyemu.png",
+        "versions": [
+            {
+                "version": "0.0.1.0",
+                "changelog": "Initial Release.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.0.1/JellyEmu_0.0.1.zip",
+                "checksum": "2bb38f29817524557619efb8961c8023",
+                "timestamp": "2026-04-20T00:00:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            }
+        ]
+    },
+    {
         "guid": "d4e5f6a7-b8c9-0123-defa-456789012345",
         "name": "Jellyframe",
         "description": "A modification framework for jellyfin.",
