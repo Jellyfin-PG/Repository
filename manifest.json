@@ -10,6 +10,17 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyEmu@main/assets/jellyemu.png",
         "versions": [
             {
+                "version": "0.0.3.0",
+                "changelog": "New emulatorJS downloader, for offline use, and platform resolver and new metadata structure.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.0.3/JellyEmu_0.0.3.zip",
+                "checksum": "013f30cdbd3d5288095bcd80c274df5a",
+                "timestamp": "2026-04-21T00:00:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "0.0.2.0",
                 "changelog": "Thanks to community contributions to identify and solve bugs.",
                 "targetAbi": "10.11.0.0",
