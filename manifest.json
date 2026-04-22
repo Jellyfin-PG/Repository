@@ -10,6 +10,17 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyEmu@main/assets/jellyemu.png",
         "versions": [
             {
+                "version": "0.0.5.0",
+                "changelog": "Support for threads, save state browser, other fixes.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.0.5/JellyEmu_0.0.5.zip",
+                "checksum": "fd9ed06ee835df3080f3d1c35113dbe8",
+                "timestamp": "2026-04-22T00:00:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "0.0.4.0",
                 "changelog": "Region tags, new ui, preferences with cloud save slot, wikipedia provider, direct play from uri and playlist for retroarch.",
                 "targetAbi": "10.11.0.0",
