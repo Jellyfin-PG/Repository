@@ -98,6 +98,17 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyFrame@main/assets/jellyframe.png",
         "versions": [
             {
+                "version": "1.5.0.0",
+                "changelog": "Performance improvements, new metadata api's, cache lifetime, db migrate, crash count, auto restart, non blocking http, http middleware, better logging, more health data.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/JellyFrame/releases/download/v1.5.0/JellyFrame_1.5.0.zip",
+                "checksum": "de928a2ed96c88083e60c464a73bd595",
+                "timestamp": "2026-04-24T00:00:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "1.4.1.0",
                 "changelog": "New SQLite api, with shared and secular access, for larger scale data.",
                 "targetAbi": "10.11.0.0",
