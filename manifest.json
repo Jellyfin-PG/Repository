@@ -10,6 +10,17 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyEmu@main/assets/jellyemu.png",
         "versions": [
             {
+                "version": "0.0.8.0",
+                "changelog": "Added support for romm, and control settings that sync cross device.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.0.8/JellyEmu_0.0.8.zip",
+                "checksum": "f41a51a523f8093f6930ccf39daf8b6e",
+                "timestamp": "2026-04-25T00:00:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "0.0.7.0",
                 "changelog": "Added support for disc tags, for segmenting and detecting multi disc roms.",
                 "targetAbi": "10.11.0.0",
