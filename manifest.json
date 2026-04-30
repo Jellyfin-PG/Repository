@@ -10,6 +10,17 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyEmu@main/assets/jellyemu.png",
         "versions": [
             {
+                "version": "0.2.2.0",
+                "changelog": "Optimization for detection and injection, with fixes, screenshots for saves.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.2.2/JellyEmu_0.2.2.zip",
+                "checksum": "83e312f3dd8341640805c5ee87988a42",
+                "timestamp": "2026-04-30T00:00:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "0.2.0.0",
                 "changelog": "Controller mapping, auto cheats, performance improvements, auto hide for exit game.",
                 "targetAbi": "10.11.0.0",
