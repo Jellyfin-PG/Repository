@@ -10,6 +10,17 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyEmu@main/assets/jellyemu.png",
         "versions": [
             {
+                "version": "0.4.0.0",
+                "changelog": "Additional delete button for deleting saves in save state browser.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.4.0/JellyEmu_0.4.0.zip",
+                "checksum": "bd8af2817bc69a737616e921ecdb736c",
+                "timestamp": "2026-05-02T00:00:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "0.3.0.0",
                 "changelog": "A complete overhaul, removal of jellyemu preferences page, new emulator ui and loading screen, working save states.",
                 "targetAbi": "10.11.0.0",
