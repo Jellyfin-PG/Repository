@@ -10,6 +10,17 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyEmu@main/assets/jellyemu.png",
         "versions": [
             {
+                "version": "0.3.0.0",
+                "changelog": "A complete overhaul, removal of jellyemu preferences page, new emulator ui and loading screen, working save states.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.3.0/JellyEmu_0.3.0.zip",
+                "checksum": "a349009866501817373bff7cc7b1fbbd",
+                "timestamp": "2026-05-02T00:00:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "0.2.2.0",
                 "changelog": "Optimization for detection and injection, with fixes, screenshots for saves.",
                 "targetAbi": "10.11.0.0",
