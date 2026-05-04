@@ -10,6 +10,17 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyEmu@main/assets/jellyemu.png",
         "versions": [
             {
+                "version": "0.6.0.0",
+                "changelog": "Metadata providers overhaul, and official pico8 support.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.6.0/JellyEmu_0.6.0.zip",
+                "checksum": "e7044657f0d411ef7f8d39cb13465daa",
+                "timestamp": "2026-05-04T00:00:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "0.5.5.0",
                 "changelog": "Export/Import for Game State/Save, fixes for input mapping, and full screen toggle.",
                 "targetAbi": "10.11.0.0",
