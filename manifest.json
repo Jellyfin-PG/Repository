@@ -10,6 +10,17 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyEmu@main/assets/jellyemu.png",
         "versions": [
             {
+                "version": "0.6.2.0",
+                "changelog": "Overhaul for providers, separating rom/pico, new provider for pico8, and overhaul of mobile ui for pico8.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.6.2/JellyEmu_0.6.2.zip",
+                "checksum": "ba9afb0d8d568e1a1e7343268b05482d",
+                "timestamp": "2026-05-04T22:32:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "0.6.1.0",
                 "changelog": "Fixes for virtual gamepad in css selector logic.",
                 "targetAbi": "10.11.0.0",
