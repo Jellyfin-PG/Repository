@@ -10,6 +10,17 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyEmu@main/assets/jellyemu.png",
         "versions": [
             {
+                "version": "0.6.4.0",
+                "changelog": "WebXR AR/VR support.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v6.4.0/JellyEmu_6.4.0.zip",
+                "checksum": "1d08b04b44e06cba8835ded9b1236f86",
+                "timestamp": "2026-05-05T22:15:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "0.6.3.0",
                 "changelog": "Fixes for providers, tags, id search, mobile scrolling dock for emulator, template engine.",
                 "targetAbi": "10.11.0.0",
@@ -236,28 +247,6 @@
                 "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.0.3/JellyEmu_0.0.3.zip",
                 "checksum": "013f30cdbd3d5288095bcd80c274df5a",
                 "timestamp": "2026-04-21T00:00:00Z",
-                "dependencies": [
-                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
-                ]
-            },
-            {
-                "version": "0.0.2.0",
-                "changelog": "Thanks to community contributions to identify and solve bugs.",
-                "targetAbi": "10.11.0.0",
-                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.0.2/JellyEmu_0.0.2.zip",
-                "checksum": "3749E78AC0DBA40CD69BBF4814C6CE37",
-                "timestamp": "2026-04-21T00:00:00Z",
-                "dependencies": [
-                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
-                ]
-            },
-            {
-                "version": "0.0.1.0",
-                "changelog": "Initial Release.",
-                "targetAbi": "10.11.0.0",
-                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.0.1/JellyEmu_0.0.1.zip",
-                "checksum": "41F727F441F12A54EFC1272A29284EA5",
-                "timestamp": "2026-04-20T00:00:00Z",
                 "dependencies": [
                     "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
                 ]
