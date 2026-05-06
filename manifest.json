@@ -10,6 +10,17 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyEmu@main/assets/jellyemu.png",
         "versions": [
             {
+                "version": "0.6.5.0",
+                "changelog": "Disable AR temporarily, threejs cache, suggested fix for fbneo.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.6.5/JellyEmu_0.6.5.zip",
+                "checksum": "9f0d8a78c42dda469cdfb29613a27f0a",
+                "timestamp": "2026-05-06T20:05:22Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "0.6.4.0",
                 "changelog": "WebXR AR/VR support.",
                 "targetAbi": "10.11.0.0",
