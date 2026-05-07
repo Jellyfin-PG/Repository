@@ -10,6 +10,17 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyEmu@main/assets/jellyemu.png",
         "versions": [
             {
+                "version": "0.6.8.0",
+                "changelog": "Fixes for sram overwriting save states, dual input mapping, screenshot button for pico8.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.6.8/JellyEmu_0.6.8.zip",
+                "checksum": "50f042f7d0e68efa2922b91c8197e077",
+                "timestamp": "2026-05-06T22:11:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "0.6.5.0",
                 "changelog": "Disable AR temporarily, threejs cache, suggested fix for fbneo.",
                 "targetAbi": "10.11.0.0",
