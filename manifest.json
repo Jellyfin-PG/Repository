@@ -10,6 +10,17 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyEmu@main/assets/jellyemu.png",
         "versions": [
             {
+                "version": "0.6.9.0",
+                "changelog": "Fixes cloud save, check for null, atomic copy, cancellation, removed save on exit.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.6.9/JellyEmu_0.6.9.zip",
+                "checksum": "e0ca8a7def6138e384dc9388cebd7955",
+                "timestamp": "2026-05-06T23:11:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "0.6.8.0",
                 "changelog": "Fixes for sram overwriting save states, dual input mapping, screenshot button for pico8.",
                 "targetAbi": "10.11.0.0",
