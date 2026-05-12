@@ -10,6 +10,17 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyEmu@main/assets/jellyemu.png",
         "versions": [
             {
+                "version": "0.7.0.0",
+                "changelog": "Fixes for tag conflicts (please refresh metadata), fixes for keyboard popping up ui, and improvements for metadata matching.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.7.0/JellyEmu_0.7.0.zip",
+                "checksum": "1881dd25c3c46175a1b480fc7faa755a",
+                "timestamp": "2026-05-012T12:11:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "0.6.9.0",
                 "changelog": "Fixes cloud save, check for null, atomic copy, cancellation, removed save on exit.",
                 "targetAbi": "10.11.0.0",
