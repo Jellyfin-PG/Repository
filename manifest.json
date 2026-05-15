@@ -14,7 +14,7 @@
                 "changelog": "Hasheous, SteamGridDB providers, retro achievement viewing, fixes for badges/misc info, multi region, more regions.",
                 "targetAbi": "10.11.0.0",
                 "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.7.2/JellyEmu_0.7.2.zip",
-                "checksum": "93f4f9f3089cc5a4f0d73217fce3d0e1",
+                "checksum": "441E687721D3253978BD60EA15334C09",
                 "timestamp": "2026-05-14T12:11:00Z",
                 "dependencies": [
                     "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
