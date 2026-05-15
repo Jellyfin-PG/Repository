@@ -10,6 +10,17 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyEmu@main/assets/jellyemu.png",
         "versions": [
             {
+                "version": "0.7.2.0",
+                "changelog": "Hasheous, SteamGridDB providers, retro achievement viewing, fixes for badges/misc info, multi region, more regions.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.7.2/JellyEmu_0.7.2.zip",
+                "checksum": "93f4f9f3089cc5a4f0d73217fce3d0e1",
+                "timestamp": "2026-05-14T12:11:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "0.7.1.0",
                 "changelog": "Clean name with multiple tags, mame2003_plus core, last modified for save state, topbar hidden when ui minimized.",
                 "targetAbi": "10.11.0.0",
