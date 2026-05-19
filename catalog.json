@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    {
+      "id": "9bab105e-9af0-4e25-a87d-876713b60962",
+      "name": "JellyEmu",
+      "description": "Share your emulation library in jellyfin with your users. Browse and play retro games with your friends.",
+      "version": "0.7.4.0",
+      "author": "Jellyfin-PG",
+      "category": "General",
+      "downloadUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.7.4/JellyEmu_0.7.4.zip",
+      "sha256": "C6D2719425B69DA04B6D201B243E223085FCE56D80AB0DC3337C01E6866FFA85"
+    }
+  ]
+}
