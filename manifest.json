@@ -10,6 +10,17 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyEmu@main/assets/jellyemu.png",
         "versions": [
             {
+                "version": "0.7.4.2",
+                "changelog": "Fixes for cloud save authentication.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.7.4.2/JellyEmu_0.7.4.2.zip",
+                "checksum": "cfe3ae40fcb85daa0220f670fce56c49",
+                "timestamp": "2026-05-20T12:11:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "0.7.4.0",
                 "changelog": "Security overhaul, new logistic endpoints, sqlite for scaling, better folder resolution, fixes for ra.",
                 "targetAbi": "10.11.0.0",
