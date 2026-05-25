@@ -15,7 +15,7 @@
                 "targetAbi": "10.11.0.0",
                 "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.7.6/JellyEmu_0.7.6.0.zip",
                 "checksum": "085ef8a101e6fc639bd0f0ee2fd5c29a",
-                "timestamp": "2026-05-24T13:00:00Z",
+                "timestamp": "2026-05-24T12:00:00Z",
                 "dependencies": [
                     "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
                 ]
@@ -26,7 +26,7 @@
                 "targetAbi": "10.11.0.0",
                 "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.7.5/JellyEmu_0.7.5.0.zip",
                 "checksum": "8f31afe4c7312858e3c68ec04a7adfb7",
-                "timestamp": "2026-05-24T12:00:00Z",
+                "timestamp": "2026-05-23T03:45:27Z",
                 "dependencies": [
                     "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
                 ]
