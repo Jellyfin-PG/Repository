@@ -1,6 +1,26 @@
 
 [
     {
+        "guid": "f9c8d5c4-4b5c-4d5c-9c5d-4f5b5c5d5e5f",
+        "name": "JellyCMS",
+        "description": "A visual page builder plugin for jellyfin",
+        "overview": "A visual page builder plugin for jellyfin.",
+        "owner": "Jellyfin-PG",
+        "category": "General",
+        "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyCMS@main/assets/jellycms.svg",
+        "versions": [
+            {
+                "version": "1.0.0.0",
+                "changelog": "Config page overhaul, gog provider, support for recognizing windows install files.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/JellyCMS/releases/download/v1.0.0/JellyCMS_1.0.0.zip",
+                "checksum": "04344e4a7a2925623dc56a2e1d943835",
+                "timestamp": "2026-05-26T00:10:00Z",
+                "dependencies": []
+            }
+        ]
+    },
+    {
         "guid": "9bab105e-9af0-4e25-a87d-876713b60962",
         "name": "JellyEmu",
         "description": "Share your emulation library in jellyfin with your users.",
