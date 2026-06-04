@@ -30,6 +30,17 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyEmu@main/assets/jellyemu.png",
         "versions": [
             {
+                "version": "0.8.1.0",
+                "changelog": "Config page overhaul, gog provider, support for recognizing windows install files.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.8.1/JellyEmu_0.8.1.0.zip",
+                "checksum": "ac361aee420de595c41a36c773cc34a4",
+                "timestamp": "2026-06-03T19:00:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "0.7.7.0",
                 "changelog": "Config page overhaul, gog provider, support for recognizing windows install files.",
                 "targetAbi": "10.11.0.0",
@@ -256,149 +267,6 @@
                 "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.5.0/JellyEmu_0.5.0.zip",
                 "checksum": "105b9424c919fe688230cc739dd311a6",
                 "timestamp": "2026-05-03T00:00:00Z",
-                "dependencies": [
-                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
-                ]
-            },
-            {
-                "version": "0.4.1.0",
-                "changelog": "Support for sega saturn, netplay button, fix for forced load of save state 1.",
-                "targetAbi": "10.11.0.0",
-                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.4.1/JellyEmu_0.4.1.zip",
-                "checksum": "77f8e74eb308f18deb6d2bb109327536",
-                "timestamp": "2026-05-02T00:00:00Z",
-                "dependencies": [
-                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
-                ]
-            },
-            {
-                "version": "0.4.0.0",
-                "changelog": "Additional delete button for deleting saves in save state browser.",
-                "targetAbi": "10.11.0.0",
-                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.4.0/JellyEmu_0.4.0.zip",
-                "checksum": "bd8af2817bc69a737616e921ecdb736c",
-                "timestamp": "2026-05-02T00:00:00Z",
-                "dependencies": [
-                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
-                ]
-            },
-            {
-                "version": "0.3.0.0",
-                "changelog": "A complete overhaul, removal of jellyemu preferences page, new emulator ui and loading screen, working save states.",
-                "targetAbi": "10.11.0.0",
-                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.3.0/JellyEmu_0.3.0.zip",
-                "checksum": "a349009866501817373bff7cc7b1fbbd",
-                "timestamp": "2026-05-02T00:00:00Z",
-                "dependencies": [
-                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
-                ]
-            },
-            {
-                "version": "0.2.2.0",
-                "changelog": "Optimization for detection and injection, with fixes, screenshots for saves.",
-                "targetAbi": "10.11.0.0",
-                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.2.2/JellyEmu_0.2.2.zip",
-                "checksum": "83e312f3dd8341640805c5ee87988a42",
-                "timestamp": "2026-04-30T00:00:00Z",
-                "dependencies": [
-                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
-                ]
-            },
-            {
-                "version": "0.2.0.0",
-                "changelog": "Controller mapping, auto cheats, performance improvements, auto hide for exit game.",
-                "targetAbi": "10.11.0.0",
-                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.2.0/JellyEmu_0.2.0.zip",
-                "checksum": "85c4a7ba805e66ebdce16f7794bab908",
-                "timestamp": "2026-04-29T00:00:00Z",
-                "dependencies": [
-                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
-                ]
-            },
-            {
-                "version": "0.1.0.0",
-                "changelog": "Support for romm ratings, management of other emulation platforms, ratings badge.",
-                "targetAbi": "10.11.0.0",
-                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.1.0/JellyEmu_0.1.0.zip",
-                "checksum": "991d04b234d56c5f50398c536a2b6472",
-                "timestamp": "2026-04-28T00:00:00Z",
-                "dependencies": [
-                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
-                ]
-            },
-            {
-                "version": "0.0.9.0",
-                "changelog": "Fixed support for cue/bin files, fix for rare case where name wasn't present, fixes for wrong icon.",
-                "targetAbi": "10.11.0.0",
-                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.0.9/JellyEmu_0.0.9.zip",
-                "checksum": "39229e52896cf19b10fae7475e547cec",
-                "timestamp": "2026-04-25T00:00:00Z",
-                "dependencies": [
-                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
-                ]
-            },
-            {
-                "version": "0.0.8.0",
-                "changelog": "Added support for romm, and control settings that sync cross device.",
-                "targetAbi": "10.11.0.0",
-                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.0.8/JellyEmu_0.0.8.zip",
-                "checksum": "f41a51a523f8093f6930ccf39daf8b6e",
-                "timestamp": "2026-04-25T00:00:00Z",
-                "dependencies": [
-                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
-                ]
-            },
-            {
-                "version": "0.0.7.0",
-                "changelog": "Added support for disc tags, for segmenting and detecting multi disc roms.",
-                "targetAbi": "10.11.0.0",
-                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.0.7/JellyEmu_0.0.7.zip",
-                "checksum": "7a47f5eee94deb62973098ae9509290e",
-                "timestamp": "2026-04-24T00:00:00Z",
-                "dependencies": [
-                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
-                ]
-            },
-            {
-                "version": "0.0.6.0",
-                "changelog": "Fixes for game poster display, disabled threads for segasaturn, preferences endpoint and fixes for shader settings.",
-                "targetAbi": "10.11.0.0",
-                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.0.6/JellyEmu_0.0.6.zip",
-                "checksum": "9a0a203d8e440b791875d9503668a3f2",
-                "timestamp": "2026-04-22T00:00:00Z",
-                "dependencies": [
-                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
-                ]
-            },
-            {
-                "version": "0.0.5.0",
-                "changelog": "Support for threads, save state browser, other fixes.",
-                "targetAbi": "10.11.0.0",
-                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.0.5/JellyEmu_0.0.5.zip",
-                "checksum": "fd9ed06ee835df3080f3d1c35113dbe8",
-                "timestamp": "2026-04-22T00:00:00Z",
-                "dependencies": [
-                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
-                ]
-            },
-            {
-                "version": "0.0.4.0",
-                "changelog": "Region tags, new ui, preferences with cloud save slot, wikipedia provider, direct play from uri and playlist for retroarch.",
-                "targetAbi": "10.11.0.0",
-                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.0.4/JellyEmu_0.0.4.zip",
-                "checksum": "ece3c45ace905bda6bf502dc1b10d0ef",
-                "timestamp": "2026-04-21T00:00:00Z",
-                "dependencies": [
-                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
-                ]
-            },
-            {
-                "version": "0.0.3.0",
-                "changelog": "New emulatorJS downloader, for offline use, and platform resolver and new metadata structure.",
-                "targetAbi": "10.11.0.0",
-                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.0.3/JellyEmu_0.0.3.zip",
-                "checksum": "013f30cdbd3d5288095bcd80c274df5a",
-                "timestamp": "2026-04-21T00:00:00Z",
                 "dependencies": [
                     "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
                 ]
