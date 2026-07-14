@@ -1,6 +1,26 @@
 
 [
     {
+        "guid": "4a7b8c2d-1e3f-4a5b-9c6d-7e8f9a0b1c2d",
+        "name": "WaybackFin",
+        "description": "Curation tool and plugin for accessing content from archive.org.",
+        "overview": "Curation tool and plugin for accessing content from archive.org.",
+        "owner": "Jellyfin-PG",
+        "category": "General",
+        "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/WaybackFin@master/assets/WaybackFin.svg",
+        "versions": [
+            {
+                "version": "1.0.0.0",
+                "changelog": "Initial Release.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/WaybackFin/releases/download/v1.0.0/WaybackFin_1.0.0.0.zip",
+                "checksum": "62c5a485d3604463a0967b27f1634148",
+                "timestamp": "2026-07-14T00:10:00Z",
+                "dependencies": []
+            }
+        ]
+    },
+    {
         "guid": "3f8c8d8b-5a6b-4c28-98e6-e575a7bc2cd4",
         "name": "Loom",
         "description": "A plugin for modifying the frontend ui, and a thoughtful remake of file transformation plugin.",
