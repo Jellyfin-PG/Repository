@@ -3,8 +3,8 @@
     {
         "guid": "3f8c8d8b-5a6b-4c28-98e6-e575a7bc2cd4",
         "name": "Loom",
-        "description": "A plugin for jellyfin 10.11+ modify index.html in jellyfin, a thoughtful remake of file transformation plugin.",
-        "overview": "A plugin for jellyfin 10.11+ modify index.html in jellyfin, a thoughtful remake of file transformation plugin.",
+        "description": "A plugin for modifying the frontend ui, and a thoughtful remake of file transformation plugin.",
+        "overview": "A plugin for modifying the frontend ui, and a thoughtful remake of file transformation plugin.",
         "owner": "Jellyfin-PG",
         "category": "General",
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Loom@master/assets/Loom.svg",
