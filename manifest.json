@@ -50,6 +50,17 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyEmu@main/assets/jellyemu.png",
         "versions": [
             {
+                "version": "0.8.3.0",
+                "changelog": "Integration of Loom, Fixes for audiobooks, zip recognition, AR fixes.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.8.3/JellyEmu_0.8.3.0.zip",
+                "checksum": "b058e6ee0bc57e4b512f1f29ee033b27",
+                "timestamp": "2026-07-14T02:00:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "0.8.1.1",
                 "changelog": "Fixes for movies and gamepad.",
                 "targetAbi": "10.11.0.0",
