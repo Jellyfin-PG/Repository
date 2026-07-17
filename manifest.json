@@ -39,6 +39,15 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Loom@master/assets/Loom.svg",
         "versions": [
             {
+                "version": "1.0.1.0",
+                "changelog": "Fix for empty file patterns, and directories.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/Loom/releases/download/v1.0.1/Loom_1.0.1.0.zip",
+                "checksum": "15bb0da7610c687e11b33a03b9c99127",
+                "timestamp": "2026-07-18T00:10:00Z",
+                "dependencies": []
+            },
+            {
                 "version": "1.0.0.0",
                 "changelog": "Initial Release.",
                 "targetAbi": "10.11.0.0",
