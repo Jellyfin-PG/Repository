@@ -88,6 +88,17 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyEmu@main/assets/jellyemu.png",
         "versions": [
             {
+                "version": "0.8.4.0",
+                "changelog": "EJS channel option (force redownload), 3DS support (EJS nightly), fixes for n64 joystick, core option in settings where applicable.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "hhttps://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.8.4/JellyEmu_0.8.4.0.zip",
+                "checksum": "9e89288506b482b13c8238ecc35cf987",
+                "timestamp": "2026-08-11T02:00:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "0.8.3.0",
                 "changelog": "Integration of Loom, Fixes for audiobooks, zip recognition, AR fixes.",
                 "targetAbi": "10.11.0.0",
