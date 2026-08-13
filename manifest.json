@@ -242,6 +242,17 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyFrame@main/assets/jellyframe.png",
         "versions": [
             {
+                "version": "1.5.2.0",
+                "changelog": "Fixes for mods or themes, not updating with loom.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/JellyFrame/releases/download/v1.5.2/JellyFrame_1.5.2.zip",
+                "checksum": "03ba46634d3f055c594eaf8c54cdcc69",
+                "timestamp": "2026-08-16T00:00:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "1.5.1.0",
                 "changelog": "New config page and loom integration (for frontend optimized injection).",
                 "targetAbi": "10.11.0.0",
