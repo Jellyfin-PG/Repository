@@ -88,6 +88,17 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyEmu@main/assets/jellyemu.png",
         "versions": [
             {
+                "version": "0.8.5.0",
+                "changelog": "Bios support, community tab, provider fixes.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.8.5/JellyEmu_0.8.5.0.zip",
+                "checksum": "a2a0ddc90548e2d9ade501f56fb2d5de",
+                "timestamp": "2026-08-17T18:00:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "0.8.4.0",
                 "changelog": "EJS channel option (force redownload), 3DS support (EJS nightly), fixes for n64 joystick, core option in settings where applicable.",
                 "targetAbi": "10.11.0.0",
