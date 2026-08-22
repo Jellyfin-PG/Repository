@@ -88,6 +88,17 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyEmu@main/assets/jellyemu.png",
         "versions": [
             {
+                "version": "0.8.7.0",
+                "changelog": "Fix for http over local area, fix for firefox fetching js assets, assets server for retroarch, and log display during loading, display controller connected in input, move community from github to cloudflare worker.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.8.7/JellyEmu_0.8.7.0.zip",
+                "checksum": "0026add0f1fbc5967d7f9cbd20219817",
+                "timestamp": "2026-08-22T15:00:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "0.8.6.1",
                 "changelog": "Scriban update, ui render improvements, default fixes for cores, and fixes for invalid cores in core selection.",
                 "targetAbi": "10.11.0.0",
