@@ -623,69 +623,6 @@
                 "checksum": "519CA3A99A4ADDB3E67FD910ADE7E408",
                 "timestamp": "2026-03-15T13:12:07Z",
                 "dependencies": []
-            },
-            {
-                "version": "2.5.5.0",
-                "changelog": "Bug Fixes: Fixed issue #46, where server would crash on startup as would dependant plugins.",
-                "targetAbi": "10.11.1.0",
-                "sourceUrl": "https://github.com/IAmParadox27/jellyfin-plugin-file-transformation/releases/download/2.5.5.0/Release-10.11.1.zip",
-                "checksum": "79C3719F597A7C07545C5833E16C1C3E",
-                "timestamp": "2026-03-15T13:12:07Z",
-                "dependencies": []
-            },
-            {
-                "version": "2.5.5.0",
-                "changelog": "Bug Fixes: Fixed issue #46, where server would crash on startup as would dependant plugins.",
-                "targetAbi": "10.11.2.0",
-                "sourceUrl": "https://github.com/IAmParadox27/jellyfin-plugin-file-transformation/releases/download/2.5.5.0/Release-10.11.2.zip",
-                "checksum": "1484C2C353A06A9FF554B06E4772C35C",
-                "timestamp": "2026-03-15T13:12:07Z",
-                "dependencies": []
-            },
-            {
-                "version": "2.5.5.0",
-                "changelog": "Bug Fixes: Fixed issue #46, where server would crash on startup as would dependant plugins.",
-                "targetAbi": "10.11.3.0",
-                "sourceUrl": "https://github.com/IAmParadox27/jellyfin-plugin-file-transformation/releases/download/2.5.5.0/Release-10.11.3.zip",
-                "checksum": "7AC78B6E8D111A847E1FE48DCA8AB285",
-                "timestamp": "2026-03-15T13:12:07Z",
-                "dependencies": []
-            },
-            {
-                "version": "2.5.5.0",
-                "changelog": "Bug Fixes: Fixed issue #46, where server would crash on startup as would dependant plugins.",
-                "targetAbi": "10.11.4.0",
-                "sourceUrl": "https://github.com/IAmParadox27/jellyfin-plugin-file-transformation/releases/download/2.5.5.0/Release-10.11.4.zip",
-                "checksum": "135E71F23F5204A8799AEB3B69EA53E8",
-                "timestamp": "2026-03-15T13:12:07Z",
-                "dependencies": []
-            },
-            {
-                "version": "2.5.5.0",
-                "changelog": "Bug Fixes: Fixed issue #46, where server would crash on startup as would dependant plugins.",
-                "targetAbi": "10.11.5.0",
-                "sourceUrl": "https://github.com/IAmParadox27/jellyfin-plugin-file-transformation/releases/download/2.5.5.0/Release-10.11.5.zip",
-                "checksum": "8826A99A68B162295AB89F1575056B39",
-                "timestamp": "2026-03-15T13:12:07Z",
-                "dependencies": []
-            },
-            {
-                "version": "2.5.5.0",
-                "changelog": "Bug Fixes: Fixed issue #46, where server would crash on startup as would dependant plugins.",
-                "targetAbi": "10.11.6.0",
-                "sourceUrl": "https://github.com/IAmParadox27/jellyfin-plugin-file-transformation/releases/download/2.5.5.0/Release-10.11.6.zip",
-                "checksum": "64CF0AC3E9BDE83CEACDACFBDCD4E007",
-                "timestamp": "2026-03-15T13:12:07Z",
-                "dependencies": []
-            },
-            {
-                "version": "2.5.5.0",
-                "changelog": "Bug Fixes: Fixed issue #46, where server would crash on startup as would dependant plugins.",
-                "targetAbi": "10.10.7.0",
-                "sourceUrl": "https://github.com/IAmParadox27/jellyfin-plugin-file-transformation/releases/download/2.5.5.0/Release-10.10.7.zip",
-                "checksum": "8D1D1E52BF2B3C09D08AE24EC52A54D6",
-                "timestamp": "2026-03-15T13:12:07Z",
-                "dependencies": []
             }
         ]
     }
