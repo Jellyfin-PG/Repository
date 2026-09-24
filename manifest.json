@@ -363,6 +363,17 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyFrame@main/assets/jellyframe.png",
         "versions": [
             {
+                "version": "1.5.3.0",
+                "changelog": "For full changelog visit https://github.com/Jellyfin-PG/JellyFrame/pull/19",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/JellyFrame/releases/download/v1.5.3/JellyFrame_1.5.3.zip",
+                "checksum": "887fa7d8c017e8ab60e6db68193de750",
+                "timestamp": "2026-09-24T12:00:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "1.5.2.0",
                 "changelog": "Fixes for mods or themes, not updating with loom.",
                 "targetAbi": "10.11.0.0",
