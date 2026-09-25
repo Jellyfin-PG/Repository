@@ -88,6 +88,17 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyEmu@main/assets/jellyemu.png",
         "versions": [
             {
+                "version": "0.9.2.4",
+                "changelog": "Fixes for local rom provider scanning other item types.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.9.2.4/JellyEmu_0.9.2.4.zip",
+                "checksum": "aac9aee0035b02b87b19be81174c0ba6",
+                "timestamp": "2026-09-25T17:50:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "0.9.2.3",
                 "changelog": "Fixes for gamepad input.",
                 "targetAbi": "10.11.0.0",
