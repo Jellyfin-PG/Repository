@@ -39,30 +39,21 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Loom@master/assets/Loom.svg",
         "versions": [
             {
+                "version": "1.1.0.0",
+                "changelog": "Massive performance improvements, backwards support for file transformation plugins, and better co-existence support.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/Loom/releases/download/v1.1.0/Loom_1.1.0.0.zip",
+                "checksum": "1ef5b7d782b3adab9c342e3084912004",
+                "timestamp": "2026-11-18T12:00:00Z",
+                "dependencies": []
+            },
+            {
                 "version": "1.0.3.0",
                 "changelog": "Fixes for diagnostic endpoint.",
                 "targetAbi": "10.11.0.0",
                 "sourceUrl": "https://github.com/Jellyfin-PG/Loom/releases/download/v1.0.3/Loom_1.0.3.0.zip",
                 "checksum": "b3df5b04bc09fe0b2ce21f06be4ee5db",
                 "timestamp": "2026-11-16T19:00:00Z",
-                "dependencies": []
-            },
-            {
-                "version": "1.0.2.0",
-                "changelog": "Efficiency, optimization and security improvements, newly added register before server startup complete.",
-                "targetAbi": "10.11.0.0",
-                "sourceUrl": "https://github.com/Jellyfin-PG/Loom/releases/download/v1.0.2/Loom_1.0.2.0.zip",
-                "checksum": "5a6c687dbd8f649d794d5d7deed17e77",
-                "timestamp": "2026-11-16T00:18:00Z",
-                "dependencies": []
-            },
-            {
-                "version": "1.0.1.0",
-                "changelog": "Fix for empty file patterns, and directories.",
-                "targetAbi": "10.11.0.0",
-                "sourceUrl": "https://github.com/Jellyfin-PG/Loom/releases/download/v1.0.1/Loom_1.0.1.0.zip",
-                "checksum": "15bb0da7610c687e11b33a03b9c99127",
-                "timestamp": "2026-07-18T00:10:00Z",
                 "dependencies": []
             },
             {
