@@ -97,6 +97,17 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyEmu@main/assets/jellyemu.png",
         "versions": [
             {
+                "version": "0.9.5.2",
+                "changelog": "Overhaul of emulation, audio mixer, security fixes for endpoints, move from sqlite to litedb, updates for dependencies, other fixes.",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.9.5.2/JellyEmu_0.9.5.2.zip",
+                "checksum": "a9f5f87612708b371cbc6b8ac7ffdee6",
+                "timestamp": "2026-11-20T12:00:00Z",
+                "dependencies": [
+                    "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+                ]
+            },
+            {
                 "version": "0.9.4.4",
                 "changelog": "Fixes statistics, 3ds, removal of individual bindings, retroarch cloudsync.",
                 "targetAbi": "10.11.0.0",
