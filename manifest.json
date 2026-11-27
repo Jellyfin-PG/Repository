@@ -98,7 +98,7 @@
         "versions": [
             {
                 "version": "0.9.5.2",
-                "changelog": "Overhaul of emulation, audio mixer, security fixes for endpoints, move from sqlite to litedb, updates for dependencies, other fixes.",
+                "changelog": "Overhaul of emulation, audio mixer, security fixes for endpoints, move from sqlite to litedb, flash support, updates for dependencies, other fixes.",
                 "targetAbi": "10.11.0.0",
                 "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.9.5.2/JellyEmu_0.9.5.2.zip",
                 "checksum": "a9f5f87612708b371cbc6b8ac7ffdee6",
