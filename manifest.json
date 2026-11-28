@@ -97,11 +97,11 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/JellyEmu@main/assets/jellyemu.png",
         "versions": [
             {
-                "version": "0.9.5.4",
-                "changelog": "Fixes for authorization for bios, touch controls, keyboard for dos.",
+                "version": "0.9.5.5",
+                "changelog": "Fixes for keyboard for dos, and removal of force ejs download.",
                 "targetAbi": "10.11.0.0",
-                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.9.5.4/JellyEmu_0.9.5.4.zip",
-                "checksum": "3314d313c55be310227667a893335f1f",
+                "sourceUrl": "https://github.com/Jellyfin-PG/JellyEmu/releases/download/v0.9.5.5/JellyEmu_0.9.5.5.zip",
+                "checksum": "069a381a40a34a83bfdd085a2ebaa361",
                 "timestamp": "2026-11-27T23:00:00Z",
                 "dependencies": [
                     "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
